@@ -1,0 +1,34 @@
+/*
+ Theme Name:   barbourians 2016
+ Theme URI:    https://wordpress.org/themes/twentysixteen/
+ Description:  A child theme for Twenty Sixteen for use on barbourians.org
+ Author:       Ian Barbour
+ Author URI:   http://barbourians.org/ian-barbour/
+ Template:     twentysixteen
+ Version:      0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  barbourians-2016
+*/
+
+/**********************************************************************************************
+ * 6.2 - Menus
+ */
+.post-navigation .meta-nav {
+	text-transform: lowercase;
+}
+
+/**********************************************************************************************
+ * 10.0 - Widgets
+ */
+.widget .widget-title {
+	text-transform: lowercase;
+}
+
+/**********************************************************************************************
+ * 11.2 - Posts and pages
+ */
+.sticky-post {
+	font-size: 14px;
+	text-transform: lowercase;
+}
